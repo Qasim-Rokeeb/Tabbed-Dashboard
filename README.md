@@ -47,7 +47,7 @@ npm run dev
 
 ## 🌐 Deployment
 
-This project is deployed on [Vercel](https://vercel.com/) — [Live Link](https://qasimrokeeb-tabbed-dashboard.vercel.app/)
+This project is deployed on [Vercel](https://vercel.com/) — [Live Link](https://tabbed-dashboard.vercel.app/)
 
 ---
 
